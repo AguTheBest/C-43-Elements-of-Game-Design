@@ -1,0 +1,58 @@
+Elements of game design:
+1. Playing charecters (pc) and non playing charecters (npc)
+Pc - cars
+Npc - coins, fuel, cones, tires
+2. Goal:
+Reaching the finish line before the opponent without crashing or losing out on fuel
+3. Rules:
+a - the life of the car will reduce when it collides with another car or with obstacles
+b - when the cars touch the coins the score will increase.
+c - the fuel will increase when the car touches the fuel tank.
+d - when the car is moving the fuel slowly depletes .
+e - the game will not start unless two players have joined.
+f - the game is over when you reach the finish line or you crash or you run out of fuel.
+4. Balance:
+challenging - avoiding obstacles
+luck - where fuel and coins spawn
+5. Adaptivity:
+To increase the difficulty as the game goes on
+6. Feedback:
+when you reach the finish line the game tells you your rank
+7. Chance vs Skill:
+navigating the car through the obstacles
+the obstacles and coins are randomly distributed
+8. Story:
+
+
+
+My favorite game
+1. pc and Npc
+pc - Steve
+npc - zombies, skeletons, spiders, birds, animals, villagers
+2. Goal:
+Defeating the ender dragon
+3. Rules:
+a - you lose hearts when you take damage
+b - you drop all of your items when you die
+4. balance:
+Difficulty - escaping the monsters
+luck - finding diamods
+5. Adaptivity:
+6. Feedback:
+advancemants
+when you die a message pops up
+when you defeat the ender dragon and jump into the portal you get a compliment
+7. Chance vs skill
+chance - getting good loot in chests
+skill - combat
+8. Story
+Freeing the end dimention from the ender dragon
+
+
+
+
+
+
+
+
+
